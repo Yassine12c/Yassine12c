@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Me contacter :
-- 📧 Email : [yassine@example.com](mailto:yassine@example.com)
+- 📧 Email : [yassine@example.com](mailto:yassinecherkaoui822@example.com)
 - 💼 LinkedIn : [linkedin.com/in/yassine-cherkaoui-b34385344](https://www.linkedin.com/in/yassine-cherkaoui-b34385344/)
 
 ---
