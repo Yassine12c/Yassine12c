@@ -2,7 +2,7 @@
 
 # Yassine Cherkaoui
 
-**Cybersecurity Student · 4th Year · Morocco**
+**Étudiant en Cybersécurité · 4ème Année · Maroc**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=500&lines=Security+Analyst+in+Training;SIEM+%7C+Threat+Detection+%7C+Cloud+Security;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 🎯 About Me
+## À Propos
 
-4th-year Cybersecurity student focused on building hands-on skills in **threat detection**, **network monitoring**, and **SIEM engineering**. I design and deploy real-world security labs to simulate enterprise-grade environments and sharpen my blue team capabilities.
+Étudiant en 4ème année de Cybersécurité, passionné par la **détection de menaces**, la **surveillance réseau** et l'ingénierie **SIEM**. Je conçois et déploie des labs sécurité en environnement réel pour développer des compétences pratiques orientées Blue Team.
 
-Currently exploring **Splunk**, **ELK Stack**, and **Penetration Testing** — open to internships and collaborations.
+Disponible pour des **stages** et **collaborations**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Compétences Techniques
 
-**Security & Monitoring**
+**Sécurité & Supervision**
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00a4ef?style=flat-square)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Recon-4682B4?style=flat-square)
@@ -30,20 +30,15 @@ Currently exploring **Splunk**, **ELK Stack**, and **Penetration Testing** — o
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-Shell-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Currently Learning**
-![Splunk](https://img.shields.io/badge/Splunk-Learning-000000?style=flat-square&logo=splunk)
-![ELK](https://img.shields.io/badge/ELK_Stack-Learning-005571?style=flat-square&logo=elasticstack)
-![PenTest](https://img.shields.io/badge/Penetration_Testing-In_Progress-red?style=flat-square)
-
 ---
 
-## 🔒 Featured Projects
+## 🔒 Projets
 
-| Project | Description | Stack |
+| Projet | Description | Stack |
 |--------|-------------|-------|
-| [🛡️ SIEM Lab — Wazuh & AWS](https://github.com/Yassine12c/SIEM-Lab-Wazuh-AWS) | Full SIEM deployment on AWS with real-time threat detection and alerting | Wazuh · AWS · Linux |
-| [📊 Zabbix Monitoring Lab](https://github.com/Yassine12c/zabbix-monitoring-lab) | SSH/RDP brute-force detection with automated response alerts | Zabbix · Docker · AWS |
-| [🔍 Nmap Scan Script](https://github.com/Yassine12c/Nmap_scan-script) | Automated network reconnaissance and port scanning toolkit | Shell · Nmap |
+| [🛡️ SIEM Lab — Wazuh & AWS](https://github.com/Yassine12c/SIEM-Lab-Wazuh-AWS) | Déploiement complet d'un SIEM sur AWS avec détection de menaces en temps réel | Wazuh · AWS · Linux |
+| [📊 Zabbix Monitoring Lab](https://github.com/Yassine12c/zabbix-monitoring-lab) | Détection de brute-force SSH/RDP avec alertes automatisées | Zabbix · Docker · AWS |
+| [🔍 Nmap Scan Script](https://github.com/Yassine12c/Nmap_scan-script) | Script de reconnaissance réseau automatisé | Shell · Nmap |
 
 ---
 
@@ -58,6 +53,4 @@ Currently exploring **Splunk**, **ELK Stack**, and **Penetration Testing** — o
 
 <div align="center">
   <i>"Security is not a product, but a process."</i> — Bruce Schneier
-  <br/><br/>
-  📫 Open to internships & collaborations — let's connect!
 </div>
