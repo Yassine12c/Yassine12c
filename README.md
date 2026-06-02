@@ -45,14 +45,6 @@ Disponible pour des **stages** et **collaborations**.
 
 ---
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yassine12c&theme=matrix&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
