@@ -2,7 +2,7 @@
 
 # Yassine Cherkaoui
 
-**Étudiant en Cybersécurité · 4ème Année · Maroc**
+**Étudiant en Cybersécurité · 4ème Année **
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=500&lines=Security+Analyst+in+Training;SIEM+%7C+Threat+Detection+%7C+Cloud+Security;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
