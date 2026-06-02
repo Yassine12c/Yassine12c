@@ -21,14 +21,17 @@ Disponible pour des **stages** et **collaborations**.
 ## 🛠️ Compétences Techniques
 
 **Sécurité & Supervision**
+
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00a4ef?style=flat-square)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Recon-4682B4?style=flat-square)
 
 **Infrastructure & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-Shell-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -45,8 +48,18 @@ Disponible pour des **stages** et **collaborations**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine12c&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine12c&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yassine12c&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Cherkaoui-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![GitHub](https://img.shields.io/badge/GitHub-Yassine12c-181717?style=flat-square&logo=github)](https://github.com/Yassine12c)
+
 </div>
 
 ---
