@@ -57,7 +57,7 @@ Disponible pour des **stages** et **collaborations**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Cherkaoui-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Cherkaoui-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassine-cherkaoui-b34385344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yassine12c-181717?style=flat-square&logo=github)](https://github.com/Yassine12c)
 
 </div>
