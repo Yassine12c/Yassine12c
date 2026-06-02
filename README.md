@@ -2,7 +2,7 @@
 
 # Yassine Cherkaoui
 
-**Étudiant en Cybersécurité · 4ème Année **
+**Étudiant en Cybersécurité · 4ème Année**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=500&lines=Security+Analyst+in+Training;SIEM+%7C+Threat+Detection+%7C+Cloud+Security;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
@@ -42,6 +42,14 @@ Disponible pour des **stages** et **collaborations**.
 | [🛡️ SIEM Lab — Wazuh & AWS](https://github.com/Yassine12c/SIEM-Lab-Wazuh-AWS) | Déploiement complet d'un SIEM sur AWS avec détection de menaces en temps réel | Wazuh · AWS · Linux |
 | [📊 Zabbix Monitoring Lab](https://github.com/Yassine12c/zabbix-monitoring-lab) | Détection de brute-force SSH/RDP avec alertes automatisées | Zabbix · Docker · AWS |
 | [🔍 Nmap Scan Script](https://github.com/Yassine12c/Nmap_scan-script) | Script de reconnaissance réseau automatisé | Shell · Nmap |
+
+---
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yassine12c&theme=matrix&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
