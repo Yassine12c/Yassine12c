@@ -60,7 +60,7 @@ Disponible pour des **stages** et **collaborations**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yassine12c&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yassine12c&theme=chartreach-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -69,10 +69,21 @@ Disponible pour des **stages** et **collaborations**.
 
 <div align="center">
 
-<!-- Badge dynamique global (Niveau, Rang, Badges récents inclus) -->
+<!-- Badge de niveau global -->
 <a href="https://tryhackme.com/p/yassinecherkaoui" target="_blank">
-  <img src="https://tryhackme-badges.techbygiles.com/badge/yassinecherkaoui" alt="TryHackMe Profile & Badges">
+  <img src="https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
 </a>
+
+<br><br>
+
+<!-- Mosaïque de Badges Hexagonaux (Utilise les serveurs d'images sécurisés de GitHub) -->
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/openvas.png?raw=true" width="95" alt="OpenVAS" title="OpenVAS">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/dnsindetail.png?raw=true" width="95" alt="DNS en détail" title="DNS en détail">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/whatisnetworking.png?raw=true" width="95" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/webbed.png?raw=true" width="95" alt="Webbed" title="Webbed">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/offensivesecurityintro.png?raw=true" width="95" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/defensivesecurityintro.png?raw=true" width="95" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
+<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/careersincyber.png?raw=true" width="95" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
 
 </div>
 
