@@ -76,8 +76,8 @@ Disponible pour des **stages** et **collaborations**.
 
 <br><br>
 
-<!-- Magnifiques badges hexagonaux officiels -->
-<img src="https://cdn.jsdelivr.net/gh/Yassine12c/SIEM-Lab-Wazuh-AWS@main/images/openvas.png" width="90" alt="OpenVAS" onerror="this.src='https://images.squarespace-cdn.com/content/v1/593e961a5016e15904bc4933/1507727184285-LCH1DR7L8385I0Z75LCC/openvas-logo.png';this.width='90';" title="OpenVAS">
+<!-- Collection de Badges Hexagonaux Officiels (Alignés proprement) -->
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/openvas.png" width="90" alt="OpenVAS" title="OpenVAS">
 <img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/dnsindetail.png" width="90" alt="DNS en détail" title="DNS en détail">
 <img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/whatisnetworking.png" width="90" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
 <img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/offensivesecurityintro.png" width="90" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
