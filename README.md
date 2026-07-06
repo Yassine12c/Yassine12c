@@ -76,15 +76,13 @@ Disponible pour des **stages** et **collaborations**.
 
 <br><br>
 
-### 💻 Salles Pratiques Validées
-
-![OpenVAS](https://img.shields.io/badge/TryHackMe-OpenVAS-2E7D32?style=for-the-badge&logo=tryhackme&logoColor=white)
-![DNS](https://img.shields.io/badge/TryHackMe-DNS_en_détail-1565C0?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Networking](https://img.shields.io/badge/TryHackMe-Qu'est--ce_que_le_réseautage%20%3F-37474F?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-![Offensive](https://img.shields.io/badge/TryHackMe-Sécurité_Offensive_Intro-C62828?style=for-the-badge&logo=trymeet&logoColor=white)
-![Defensive](https://img.shields.io/badge/TryHackMe-Sécurité_Défensive_Intro-0E4B75?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Careers](https://img.shields.io/badge/TryHackMe-Carrières_Cyber-EF6C00?style=for-the-badge&logo=tryhackme&logoColor=white)
+<!-- Magnifiques badges hexagonaux officiels -->
+<img src="https://cdn.jsdelivr.net/gh/Yassine12c/SIEM-Lab-Wazuh-AWS@main/images/openvas.png" width="90" alt="OpenVAS" onerror="this.src='https://images.squarespace-cdn.com/content/v1/593e961a5016e15904bc4933/1507727184285-LCH1DR7L8385I0Z75LCC/openvas-logo.png';this.width='90';" title="OpenVAS">
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/dnsindetail.png" width="90" alt="DNS en détail" title="DNS en détail">
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/whatisnetworking.png" width="90" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/offensivesecurityintro.png" width="90" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/defensivesecurityintro.png" width="90" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
+<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/careersincyber.png" width="90" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
 
 </div>
 
