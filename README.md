@@ -60,7 +60,7 @@ Disponible pour des **stages** et **collaborations**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yassine12c&theme=chartreach-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yassine12c&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -69,14 +69,16 @@ Disponible pour des **stages** et **collaborations**.
 
 <div align="center">
 
-<!-- Badge de niveau global -->
+<!-- Vrai Badge de profil officiel dynamique (Avatar, Niveau, Rang et Traînée) -->
 <a href="https://tryhackme.com/p/yassinecherkaoui" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
+  <img src="https://tryhackme-badges.techbygiles.com/badge/yassinecherkaoui" alt="TryHackMe Profile">
 </a>
 
 <br><br>
 
-<!-- Mosaïque de Badges Hexagonaux (Utilise les serveurs d'images sécurisés de GitHub) -->
+### 🏅 Badges Hexagonaux Obtenus (7)
+
+<!-- Mosaïque de badges validée et affichée directement par les serveurs GitHub -->
 <img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/openvas.png?raw=true" width="95" alt="OpenVAS" title="OpenVAS">
 <img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/dnsindetail.png?raw=true" width="95" alt="DNS en détail" title="DNS en détail">
 <img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/whatisnetworking.png?raw=true" width="95" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
