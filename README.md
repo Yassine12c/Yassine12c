@@ -71,23 +71,31 @@ Disponible pour des **stages** et **collaborations**.
 
 <!-- Résumé du profil -->
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yassinecherkaoui)
-![Rang](https://img.shields.io/badge/Rang-Top_60%25-orange?style=for-the-badge)
+![Rang](https://img.shields.io/badge/Rang-Top_50%25-orange?style=for-the-badge)
 ![Traînée](https://img.shields.io/badge/Traînée-1_jour-yellow?style=for-the-badge)
 
 <br>
 
-### Chambres terminées (6)
+### 🏅 Badges obtenus
+
+<!-- Badge officiel TryHackMe débloqué -->
+![Webbed](https://img.shields.io/badge/🕸️_Webbed-Comprend_le_fonctionnement_du_Web-9370DB?style=flat-square)
+
+<br>
+
+### Chambres terminées (7)
 
 <!-- Badges statiques shields.io : fiables, ne dépendent d'aucun service tiers.
      Représentent les rooms réellement complétées sur TryHackMe. -->
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-Termin%C3%A9-2ea44f?style=flat-square&logo=hackthebox&logoColor=white)
 ![DNS en détail](https://img.shields.io/badge/DNS_en_d%C3%A9tail-Termin%C3%A9-2ea44f?style=flat-square)
+![HTTP en détail](https://img.shields.io/badge/HTTP_en_d%C3%A9tail-Termin%C3%A9-2ea44f?style=flat-square)
 ![Qu'est-ce que le réseautage ?](https://img.shields.io/badge/R%C3%A9seautage-Termin%C3%A9-2ea44f?style=flat-square)
 ![Introduction à la sécurité offensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_Offensive-Termin%C3%A9-2ea44f?style=flat-square)
 ![Introduction à la sécurité défensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_D%C3%A9fensive-Termin%C3%A9-2ea44f?style=flat-square)
 ![Carrières dans le cyberespace](https://img.shields.io/badge/Carri%C3%A8res_Cyber-Termin%C3%A9-2ea44f?style=flat-square)
 
-<sub>🔜 Les vrais badges TryHackMe (obtenus via des parcours complets) seront ajoutés ici dès qu'ils seront débloqués.</sub>
+<sub>🔜 D'autres badges seront ajoutés ici au fur et à mesure des chambres complétées.</sub>
 
 </div>
 
