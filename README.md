@@ -65,27 +65,37 @@ Disponible pour des **stages** et **collaborations**.
 
 ---
 
-## 🏆 TryHackMe Badges
+## 🏆 TryHackMe
 
 <div align="center">
 
-<!-- Vrai Badge de profil officiel dynamique (Avatar, Niveau, Rang et Traînée) -->
-<a href="https://tryhackme.com/p/yassinecherkaoui" target="_blank">
-  <img src="https://tryhackme-badges.techbygiles.com/badge/yassinecherkaoui" alt="TryHackMe Profile">
-</a>
+<!-- Résumé du profil -->
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yassinecherkaoui)
+![Rang](https://img.shields.io/badge/Rang-Top_50%25-orange?style=for-the-badge)
+![Traînée](https://img.shields.io/badge/Traînée-1_jour-yellow?style=for-the-badge)
 
-<br><br>
+<br>
 
-### 🏅 Badges Hexagonaux Obtenus (7)
+### 🏅 Badges obtenus
 
-<!-- Mosaïque de badges validée et affichée directement par les serveurs GitHub -->
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/openvas.png?raw=true" width="95" alt="OpenVAS" title="OpenVAS">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/dnsindetail.png?raw=true" width="95" alt="DNS en détail" title="DNS en détail">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/whatisnetworking.png?raw=true" width="95" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/webbed.png?raw=true" width="95" alt="Webbed" title="Webbed">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/offensivesecurityintro.png?raw=true" width="95" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/defensivesecurityintro.png?raw=true" width="95" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
-<img src="https://github.com/g0m/tryhackme-badges/blob/master/assets/badges/careersincyber.png?raw=true" width="95" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
+<!-- Badge officiel TryHackMe débloqué -->
+![Webbed](https://img.shields.io/badge/🕸️_Webbed-Comprend_le_fonctionnement_du_Web-9370DB?style=flat-square)
+
+<br>
+
+### Chambres terminées (7)
+
+<!-- Badges statiques shields.io : fiables, ne dépendent d'aucun service tiers.
+     Représentent les rooms réellement complétées sur TryHackMe. -->
+![OpenVAS](https://img.shields.io/badge/OpenVAS-Termin%C3%A9-2ea44f?style=flat-square&logo=hackthebox&logoColor=white)
+![DNS en détail](https://img.shields.io/badge/DNS_en_d%C3%A9tail-Termin%C3%A9-2ea44f?style=flat-square)
+![HTTP en détail](https://img.shields.io/badge/HTTP_en_d%C3%A9tail-Termin%C3%A9-2ea44f?style=flat-square)
+![Qu'est-ce que le réseautage ?](https://img.shields.io/badge/R%C3%A9seautage-Termin%C3%A9-2ea44f?style=flat-square)
+![Introduction à la sécurité offensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_Offensive-Termin%C3%A9-2ea44f?style=flat-square)
+![Introduction à la sécurité défensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_D%C3%A9fensive-Termin%C3%A9-2ea44f?style=flat-square)
+![Carrières dans le cyberespace](https://img.shields.io/badge/Carri%C3%A8res_Cyber-Termin%C3%A9-2ea44f?style=flat-square)
+
+<sub>🔜 D'autres badges seront ajoutés ici au fur et à mesure des chambres complétées.</sub>
 
 </div>
 
