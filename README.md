@@ -69,18 +69,20 @@ Disponible pour des **stages** et **collaborations**.
 
 <div align="center">
 
+<!-- Badge de niveau global -->
 <a href="https://tryhackme.com/p/yassinecherkaoui" target="_blank">
   <img src="https://tryhackme-badges.techbygiles.com/badge/yassinecherkaoui" alt="TryHackMe Profile">
 </a>
 
 <br><br>
 
-<img src="https://tryhackme.com/assets/badges/rooms/openvas.png" width="85" alt="OpenVAS" title="OpenVAS">
-<img src="https://tryhackme.com/assets/badges/rooms/dnsindetail.png" width="85" alt="DNS en détail" title="DNS en détail">
-<img src="https://tryhackme.com/assets/badges/rooms/whatisnetworking.png" width="85" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
-<img src="https://tryhackme.com/assets/badges/rooms/offensivesecurityintro.png" width="85" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
-<img src="https://tryhackme.com/assets/badges/rooms/defensivesecurityintro.png" width="85" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
-<img src="https://tryhackme.com/assets/badges/rooms/careersincyber.png" width="85" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
+<!-- Badges hexagonaux (via serveurs autorisés) -->
+<img src="https://assets.tryhackme.com/badges/rooms/openvas.png" width="85" alt="OpenVAS" title="OpenVAS">
+<img src="https://assets.tryhackme.com/badges/rooms/dnsindetail.png" width="85" alt="DNS en détail" title="DNS en détail">
+<img src="https://assets.tryhackme.com/badges/rooms/whatisnetworking.png" width="85" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
+<img src="https://assets.tryhackme.com/badges/rooms/offensivesecurityintro.png" width="85" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
+<img src="https://assets.tryhackme.com/badges/rooms/defensivesecurityintro.png" width="85" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
+<img src="https://assets.tryhackme.com/badges/rooms/careersincyber.png" width="85" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
 
 </div>
 
