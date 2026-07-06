@@ -76,13 +76,15 @@ Disponible pour des **stages** et **collaborations**.
 
 <br><br>
 
-<!-- Badges hexagonaux (Serveur de secours hautement disponible) -->
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/openvas.png" width="85" alt="OpenVAS" title="OpenVAS">
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/dnsindetail.png" width="85" alt="DNS en détail" title="DNS en détail">
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/whatisnetworking.png" width="85" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/offensivesecurityintro.png" width="85" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/defensivesecurityintro.png" width="85" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
-<img src="https://raw.githubusercontent.com/Schweizer99/tryhackme-badges/main/badges/careersincyber.png" width="85" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
+### 💻 Salles Pratiques Validées
+
+![OpenVAS](https://img.shields.io/badge/TryHackMe-OpenVAS-2E7D32?style=for-the-badge&logo=tryhackme&logoColor=white)
+![DNS](https://img.shields.io/badge/TryHackMe-DNS_en_détail-1565C0?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Networking](https://img.shields.io/badge/TryHackMe-Qu'est--ce_que_le_réseautage%20%3F-37474F?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+![Offensive](https://img.shields.io/badge/TryHackMe-Sécurité_Offensive_Intro-C62828?style=for-the-badge&logo=trymeet&logoColor=white)
+![Defensive](https://img.shields.io/badge/TryHackMe-Sécurité_Défensive_Intro-0E4B75?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Careers](https://img.shields.io/badge/TryHackMe-Carrières_Cyber-EF6C00?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
