@@ -76,13 +76,13 @@ Disponible pour des **stages** et **collaborations**.
 
 <br><br>
 
-<!-- Collection de Badges Hexagonaux Officiels (Alignés proprement) -->
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/openvas.png" width="90" alt="OpenVAS" title="OpenVAS">
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/dnsindetail.png" width="90" alt="DNS en détail" title="DNS en détail">
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/whatisnetworking.png" width="90" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/offensivesecurityintro.png" width="90" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/defensivesecurityintro.png" width="90" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
-<img src="https://raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/careersincyber.png" width="90" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
+<!-- Badges Hexagonaux via un Proxy d'images sécurisé (Aucun blocage possible) -->
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/openvas.png" width="90" alt="OpenVAS" title="OpenVAS">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/dnsindetail.png" width="90" alt="DNS en détail" title="DNS en détail">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/whatisnetworking.png" width="90" alt="Qu'est-ce que le réseautage ?" title="Qu'est-ce que le réseautage ?">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/offensivesecurityintro.png" width="90" alt="Introduction à la sécurité offensive" title="Introduction à la sécurité offensive">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/defensivesecurityintro.png" width="90" alt="Introduction à la sécurité défensive" title="Introduction à la sécurité défensive">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/g0m/tryhackme-badges/master/assets/badges/careersincyber.png" width="90" alt="Carrières dans le cyberespace" title="Carrières dans le cyberespace">
 
 </div>
 
