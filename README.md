@@ -71,7 +71,7 @@ Disponible pour des **stages** et **collaborations**.
 
 <!-- Résumé du profil -->
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yassinecherkaoui)
-![Rang](https://img.shields.io/badge/Rang-Top_50%25-orange?style=for-the-badge)
+![Rang](https://img.shields.io/badge/Rang-Top_40%25-orange?style=for-the-badge)
 ![Traînée](https://img.shields.io/badge/Traînée-1_jour-yellow?style=for-the-badge)
 
 <br>
@@ -83,7 +83,7 @@ Disponible pour des **stages** et **collaborations**.
 
 <br>
 
-### Chambres terminées (7)
+### Chambres terminées (8)
 
 <!-- Badges statiques shields.io : fiables, ne dépendent d'aucun service tiers.
      Représentent les rooms réellement complétées sur TryHackMe. -->
@@ -94,6 +94,7 @@ Disponible pour des **stages** et **collaborations**.
 ![Introduction à la sécurité offensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_Offensive-Termin%C3%A9-2ea44f?style=flat-square)
 ![Introduction à la sécurité défensive](https://img.shields.io/badge/S%C3%A9curit%C3%A9_D%C3%A9fensive-Termin%C3%A9-2ea44f?style=flat-square)
 ![Carrières dans le cyberespace](https://img.shields.io/badge/Carri%C3%A8res_Cyber-Termin%C3%A9-2ea44f?style=flat-square)
+![SOC L2 Alert Triage](https://img.shields.io/badge/SOC_L2_Alert_Triage-Termin%C3%A9-2ea44f?style=flat-square)
 
 <sub>🔜 D'autres badges seront ajoutés ici au fur et à mesure des chambres complétées.</sub>
 
@@ -107,6 +108,7 @@ Disponible pour des **stages** et **collaborations**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Cherkaoui-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yassine-cherkaoui-b34385344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yassine12c-181717?style=flat-square&logo=github)](https://github.com/Yassine12c)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-yassinecherkaoui-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yassinecherkaoui)
 
 </div>
 
